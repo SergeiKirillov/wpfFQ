@@ -23,6 +23,7 @@ namespace wpfFQ
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
